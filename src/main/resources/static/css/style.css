@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    margin-top: 100px;
+}
+
+.main-menu{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main-menu a {
+    font-size: 26px;
+}
+
+h1 {
+    color: rgb(68, 68, 252);
+    text-align: center;
+}
